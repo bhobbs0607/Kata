@@ -1,0 +1,9 @@
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart.Unit.Tests\bin\Debug\Kata.ShoppingCart.Unit.Tests.dll
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart.Unit.Tests\bin\Debug\Kata.ShoppingCart.Unit.Tests.pdb
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart.Unit.Tests\bin\Debug\Kata.ShoppingCart.dll
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart.Unit.Tests\bin\Debug\Moq.dll
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart.Unit.Tests\bin\Debug\Kata.ShoppingCart.pdb
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart.Unit.Tests\bin\Debug\Moq.xml
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart.Unit.Tests\obj\Debug\Kata.ShoppingCart.Unit.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart.Unit.Tests\obj\Debug\Kata.ShoppingCart.Unit.Tests.dll
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart.Unit.Tests\obj\Debug\Kata.ShoppingCart.Unit.Tests.pdb

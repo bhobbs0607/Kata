@@ -1,0 +1,5 @@
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart\bin\Debug\Kata.ShoppingCart.dll
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart\bin\Debug\Kata.ShoppingCart.pdb
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart\obj\Debug\Kata.ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart\obj\Debug\Kata.ShoppingCart.dll
+C:\Users\Brian\Documents\GitHub\Kata\Kata.ShoppingCart\obj\Debug\Kata.ShoppingCart.pdb
