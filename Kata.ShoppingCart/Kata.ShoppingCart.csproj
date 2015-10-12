@@ -45,9 +45,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Checkout.cs" />
-    <Compile Include="IDiscounter.cs" />
-    <Compile Include="IPriceFinder.cs" />
+    <Compile Include="IItemFinder.cs" />
+    <Compile Include="ISpecialFinder.cs" />
+    <Compile Include="Models\Item.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Models\SpecialPrice.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
