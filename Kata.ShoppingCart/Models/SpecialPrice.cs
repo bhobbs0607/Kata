@@ -13,6 +13,6 @@ namespace Kata.ShoppingCart
     {
         public string ItemName {get;set;}
         public int ItemCount { get; set; }
-        public decimal TotalAmount{ get; set; }
+        public int TotalAmount{ get; set; }
     }
 }

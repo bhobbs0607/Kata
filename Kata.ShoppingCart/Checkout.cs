@@ -36,9 +36,9 @@ namespace Kata.ShoppingCart
         /// Gets the total amount due for all of the scan items.
         /// </summary>
         /// <returns></returns>
-        public decimal Total()
+        public int Total()
         {
-            decimal total = 0;
+            int total = 0;
             // Grouping items to be able to determine if they qualify for the special price.
             var groupedItems = _items.GroupBy(i => i.Name);
 
