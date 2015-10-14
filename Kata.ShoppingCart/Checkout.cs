@@ -9,7 +9,9 @@ namespace Kata.ShoppingCart
         private List<Item> _items;
         private readonly List<SpecialPrice> _specials;
         private readonly IItemFinder _itemFinder;
-        
+
+        public List<Item> Items { get { return _items; } }
+
         public Checkout(IItemFinder itemFinder, List<SpecialPrice> specials)
         {
             // guard clauses here to catch any issues early on if a null object is passed into this class
